@@ -1,0 +1,4 @@
+film,category,worldwide gross ($m),% budget recovered,critics % score,audience % score,audience vs critics % deviance,budget,domestic gross ($m),international gross ($m),opening weekend ($m),second weekend ($m),1st vs 2nd weekend drop off,% gross from opening weekend,% gross from domestic,% gross from international,% budget opening weekend,year,source
+Spider-Man: No Way Home,Spider-Man,1911,956%,93%,96%,-3%,200,814,1097,260,84,-68%,32,42.6%,57.4%,130.0%,2021,https://www.the-numbers.com/movie/Spider-Man-No-Way-Home-(2021)#tab=summary
+Avengers: End Game,Avengers,2797,699%,94%,90%,4%,400,858,1939,357,147,-59%,41.6,30.7%,69.3%,89.3%,2019,https://www.the-numbers.com/movie/Avengers-Endgame-(2019)#tab=summary
+Shang-Chi,Unique,432,288%,91%,93%,-2%,150,224,207,75,34.7,-54%,33.6,51.9%,47.9%,50.0%,2021,https://www.the-numbers.com/movie/Shang-Chi-and-the-Legend-of-the-Ten-Rings-(2021)#tab=summary
